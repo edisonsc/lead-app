@@ -4,9 +4,9 @@ function Team () {
     return (
       <div>
     
-          <section className="intro">
-            <img src={Image} className="image__main" alt="logo" />
-            <img src={Image} className="image__main" alt="logo" />
+          <section className="section">
+            <img src={Image} className="image__team" alt="eric" />
+            <img src={Image} className="image__team" alt="sarah" />
           </section>
       
       
