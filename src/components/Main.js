@@ -5,10 +5,10 @@ function Main() {
   return (
     <div>
       <main>
-        <section className="intro">
+        <section className="section">
           <img src={heroImage} className="image__main" alt="logo" />
         </section>
-        <section>
+        <section className="section">
           <p>
             Navigating college admissions can be overwhelming. There are over
             5000 colleges and universities in the United States alone. LEAD
