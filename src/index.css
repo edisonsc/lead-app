@@ -15,3 +15,7 @@
 
 /*Image*/
 @import url(./blocks/image/__main/image__main.css);
+@import url(./blocks/image/__team/image__team.css);
+
+/*Section*/
+@import url(./blocks/section/section.css);
