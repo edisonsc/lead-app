@@ -8,4 +8,5 @@ body {
     text-rendering: optimizeLegibility;
     color:black;
     margin: 0 auto;
+    display: flex;
   }
