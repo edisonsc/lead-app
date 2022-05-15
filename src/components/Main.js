@@ -18,6 +18,12 @@ function Main() {
             choosing your major, and many others completely depending on the
             needs of the student.
           </p>
+          <p>
+            Our team has over two decades of combined experience in higher
+            education. We can guide you during this process. From your first
+            college visit to application review to major consultation, we will
+            be there every step of the way.
+          </p>
         </section>
       </main>
     </div>
