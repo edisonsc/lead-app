@@ -1,10 +1,11 @@
 
+import React from 'react';
 import '../App.css';
 import Header from "./Header";
 import Main from "./Main";
 import Team from "./Team";
 import Footer from "./Footer";
-import Form from "./Form"
+import Form from "./Form";
 
 function App() {
   return (
