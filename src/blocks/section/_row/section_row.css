@@ -1,0 +1,31 @@
+.section_row{
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    padding:0 0 58px;
+    align-items: center;
+    align-content: center;
+    width: calc(100% - 96px);
+}
+
+@media screen and (max-width: 1024px) {
+    .section {
+      width: calc(100% - 96px);
+      flex-direction: row;
+    }
+  }
+  
+
+@media screen and (max-width: 768px) {
+    .section_row {
+      width: calc(100% - 48px);
+      flex-direction: column;
+    }
+  }
+  
+  @media screen and (max-width: 425px) {
+    .section_row {
+      width: calc(100% - 32px);
+      flex-direction: column;
+    }
+  }
