@@ -8,3 +8,14 @@
     font-display: swap;
     src: url("Lato-Regular.ttf") format("ttf"),
   }
+
+  @font-face {
+    font-family: 'Lato-Black';
+    font-display: swap;
+    src: url("Lato-Black.ttf") format("ttf"),
+  }
+
+  @font-face {
+    font-family: 'Lato-Bold';
+    src: url("Lato-Bold.ttf") format ("ttf");
+  }
