@@ -9,7 +9,7 @@ function Main() {
           <img src={heroImage} className="image__main" alt="logo" />
         </section>
         <section className="section">
-          <p>
+          <p className="text">
             Navigating college admissions can be overwhelming. There are over
             5000 colleges and universities in the United States alone. LEAD
             offers services for students at all levels of preparation that
