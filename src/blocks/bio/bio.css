@@ -1,0 +1,7 @@
+.bio{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 50vw;
+}
