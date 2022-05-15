@@ -11,8 +11,8 @@ function App() {
     <div className="root">
       <Header />
       <Main />
-      <Team />
       <Form />
+      <Team />
       <Footer />
     </div>
   );
