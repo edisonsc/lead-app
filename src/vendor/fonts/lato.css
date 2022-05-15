@@ -11,11 +11,14 @@
 
   @font-face {
     font-family: 'Lato-Black';
+    font-weight: 900;
     font-display: swap;
     src: url("Lato-Black.ttf") format("ttf"),
   }
 
   @font-face {
     font-family: 'Lato-Bold';
+    font-weight: 700;
+    font-display: swap;
     src: url("Lato-Bold.ttf") format ("ttf");
   }
